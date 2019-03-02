@@ -18,3 +18,6 @@ Merhabalar,
 6-Hazırladığınız native sitenizde postback gibi bir mantık olmayacak. Bildiğiniz bir desktop programı gibi çalışacak. Native sitenizi yayınlamak için bir tane ftp adresiniz olması ve bu adresin bir ip adresi olması gerekiyor ya da daha önce almış olduğunuz bir alan adını da kullanabilirsiniz. Ayrıca Web Native için kendi tarafımızdan üretilen özel alan adlarını kullanmanız gerekiyor. Ürettiğimiz alan adları ICANN firmasından bağımsızdır. Geliştirdiğiniz native sitelerinizle raspperry pi ve arduino gibi elektronik kartlarını da arada bir servis olmadan kontrol edebileceksiniz. Ayrıca elektronik kartlarınızı native sitenizde bir güncelleme yaptığınızda güncel versiyona göre çalışmasını sağlayabilecek projeler geliştirebilirsiniz.
 
 7- Web Native'e ilerleyen zamanlarda bir arama motoru dahil olacak, Web Native Geliştirici Platformu olacak. Oyun geliştiriciler Unity ile yaptıkları oyunları geliştirici sayfasında yayınlayabilecekler. Ayrıca reklam entegrasyonu da çalışmalarımız içinde olacak.
+
+Tanıtım videosunu izlemek için youtube linkine gidebilirsiniz.
+https://www.youtube.com/watch?v=2eQen6fnplg&t=347s
