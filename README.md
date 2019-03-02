@@ -3,6 +3,7 @@ This is Web Browser of new technology. This is working without web layer. I sugg
 
 
 Merhabalar,
+
 1- Öncelikle web 2.0 nedir, neden kullanılır bunu açıklayayım. Web 1.0 teknolojisinden farklı olarak web2.0 teknolojisi; kullanıcıların sadece bilgi alan konumdan bilgi veren, bilgi ürettiren, paylaşımda bulunduran, tartıştıran vb özelliklerle kullanıcının aktif olduğu internet ortamlarıdır.  Yani sade biçimde açıklamak gerekirse Vikipedi, Youtube, Ekşi sözlük, Twitter, İnstagram, Facebook vb siteler gibi diğer kullanıcıların aktivitelerini görebildikleri, takip edebildikleri,  iletişime geçebildikleri,  ortak aktivite yapabildikleri internet siteleri veya kullanılan programlardır.
 
 2- Şu anda dünyada web 2.0 teknolojisini kullanıyoruz. Native üzerinde ek olarak bir web katmanı olduğu için tüm nesneler bu web katmanı içinde oluşturuluyor. Birçok web sitesinde eğer çok fazla nesne varsa bu sayfaların donduğunu ve kullanıcı arabirimine cevap vermediğini çoğu zaman şahit olmuşsunuzdur. Bu nedenle geliştiriciler web sayfalarının kasmasını önlemek amacıyla paging denilen bir yöntemi web yazılımlarına eklemektedirler. Ama bu bile çoğu zaman istenilen performansı sağlayamamaktadır. Bununla ilgili ne kadar çok yöntemler geliştirilse de web katmanında olduğu için genellikle yavaşlıklar söz konusu.
